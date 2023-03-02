@@ -1,10 +1,10 @@
 # AB_Testing
 
-In this repository, we'll cover the process of analyzing A/B testing and interpreting the results.
+⚡In this repository, we'll cover the process of analyzing A/B testing and interpreting the results.
 
 A/B Test method is used to reveal the significance of the difference between the two groups. In our A/B test, we want to know the impact of our change on the landing page of our website on sales.
 
- A/B Testing Steps:
+ 📄 A/B Testing Steps:
  --
   
 - **Understanding business problem**
@@ -19,7 +19,7 @@ A/B Test method is used to reveal the significance of the difference between the
  - **Evaluate the results :**
    - Evaluate test result and recommend business decision.
    
-**Sources:**
+📚 **Sources:**
 - *You can find the dataset [here](https://www.kaggle.com/datasets/sergylog/ab-test-data)*
    
   
