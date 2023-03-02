@@ -21,7 +21,6 @@ A/B Test method is used to reveal the significance of the difference between the
    
 📚 **Sources:**
 - *You can find the dataset [here](https://www.kaggle.com/datasets/sergylog/ab-test-data)*
-   
-  
- 
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/miraytopal/AB_Testing/blob/main/LICENSE)
   
