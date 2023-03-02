@@ -1,4 +1,5 @@
-# AB_Testing [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/miraytopal/AB_Testing/blob/main/LICENSE)
+# AB_Testing 
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/miraytopal/AB_Testing/blob/main/LICENSE)
 
 ⚡In this repository, we'll cover the process of analyzing A/B testing and interpreting the results.
 
